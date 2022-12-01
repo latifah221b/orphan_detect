@@ -2761,7 +2761,8 @@ http://cs.brown.edu:80/people/bjm/interests
 http://cs.brown.edu:80/people/bjm/research
 http://cs.brown.edu:80/people/bjm/publications
 http://cs.brown.edu:80/people/bjm/links
-http://cs.brown.edu:80/people/black/3Dtracking.htmlhttps://cs.brown.edu/people/arjun
+http://cs.brown.edu:80/people/black/3Dtracking.html
+https://cs.brown.edu/people/arjun
 http://cs.brown.edu:80/people/bjm/teaching
 http://cs.brown.edu:80/degrees/emcs
 http://cs.brown.edu:80/degrees/undergrad/concentrations/scb_reqs

@@ -4781,7 +4781,8 @@ http://www.cs.brown.edu/people/bjm
 http://www.cs.brown.edu:80/people/black/3Dtracking.html
 http://www.cs.brown.edu/people/black/aaai90.html
 http://www.cs.brown.edu/people/black/appear.html
-http://www.cs.brown.edu/people/black/arvo92.htmlhttp://www.cs.brown.edu/people/black/affiliations.htm
+http://www.cs.brown.edu/people/black/arvo92.html
+http://www.cs.brown.edu/people/black/affiliations.htm
 http://www.cs.brown.edu/people/black/appearAnimated.html
 http://www.cs.brown.edu/people/black/aniso.html
 http://www.cs.brown.edu:80/grad

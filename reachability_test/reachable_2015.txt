@@ -4007,7 +4007,8 @@ http://cs.brown.edu:80/people/archita
 http://cs.brown.edu/people/arjun
 http://cs.brown.edu:80/people/asf
 http://cs.brown.edu:80/people/avd
-http://cs.brown.edu:80/people/blackhttp://cs.brown.edu:80/degrees/undergrad/concentrations/capstone
+http://cs.brown.edu:80/people/black
+http://cs.brown.edu:80/degrees/undergrad/concentrations/capstone
 http://cs.brown.edu:80/degrees/emcs
 http://cs.brown.edu/degrees/undergrad/concentrations/capstone
 http://cs.brown.edu:80/degrees/undergrad/concentrations/scb_reqs

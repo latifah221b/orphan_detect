@@ -401,11 +401,6 @@
     },
     {
         "age": "1999",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/cs017/home.html\n"
-    },
-    {
-        "age": "1999",
         "last_archived_version": "2001",
         "url": "cs.brown.edu/courses/bridge/1997\n"
     },
@@ -1690,11 +1685,6 @@
         "url": "cs.brown.edu/courses/cs092/WIRES/isp.html\n"
     },
     {
-        "age": "1999",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/cs018\n"
-    },
-    {
         "age": "2000",
         "last_archived_version": "2000",
         "url": "cs.brown.edu/courses/cs092/WIRES/www.html\n"
@@ -1730,11 +1720,6 @@
         "url": "cs.brown.edu/courses/cs159/home.html\n"
     },
     {
-        "age": "2000",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/cs155/info.html\n"
-    },
-    {
         "age": "1999",
         "last_archived_version": "2001",
         "url": "cs.brown.edu/courses/cs152/staff.html\n"
@@ -1761,11 +1746,6 @@
     },
     {
         "age": "2000",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/cs167/lectures.html\n"
-    },
-    {
-        "age": "2000",
         "last_archived_version": "2001",
         "url": "cs.brown.edu/courses/cs092/2000\n"
     },
@@ -1773,11 +1753,6 @@
         "age": "1997",
         "last_archived_version": "2002",
         "url": "cs.brown.edu/courses/cs169/home.html\n"
-    },
-    {
-        "age": "2000",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/cs169/lectures.html\n"
     },
     {
         "age": "2000",
@@ -2365,11 +2340,6 @@
         "url": "cs.brown.edu/memex/ACM_HypertextTestbed/citationBase/A.html\n"
     },
     {
-        "age": "1997",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/home.html\n"
-    },
-    {
         "age": "2000",
         "last_archived_version": "2000",
         "url": "cs.brown.edu/memex/ACM_HypertextTestbed/citationBase/K.html\n"
@@ -2408,21 +2378,6 @@
         "age": "2000",
         "last_archived_version": "2000",
         "url": "cs.brown.edu/memex/ACM_HypertextTestbed/citationBase/R.html\n"
-    },
-    {
-        "age": "2000",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/courses/cs155\n"
-    },
-    {
-        "age": "2000",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/courses/cs176\n"
-    },
-    {
-        "age": "2000",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/courses/cs181\n"
     },
     {
         "age": "2000",
@@ -2605,16 +2560,6 @@
         "url": "cs.brown.edu/courses/gs002\n"
     },
     {
-        "age": "1999",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/ta/admin\n"
-    },
-    {
-        "age": "1999",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/ta/tech\n"
-    },
-    {
         "age": "2000",
         "last_archived_version": "2013",
         "url": "cs.brown.edu/orgs/wics/events.html\n"
@@ -2661,11 +2606,6 @@
     },
     {
         "age": "2000",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news\n"
-    },
-    {
-        "age": "2000",
         "last_archived_version": "2001",
         "url": "cs.brown.edu/people/asf/gallery.html\n"
     },
@@ -2688,11 +2628,6 @@
         "age": "2000",
         "last_archived_version": "2001",
         "url": "cs.brown.edu/people/asf/snow96.html\n"
-    },
-    {
-        "age": "1997",
-        "last_archived_version": "2017",
-        "url": "cs.brown.edu/people/avd/home.html\n"
     },
     {
         "age": "1999",

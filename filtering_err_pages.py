@@ -24,7 +24,7 @@ async def filter_out(year):
     print(f'original links {len(urls)} links in {end - start} seconds')
     print(f'reduced links {len(a)} links in {end - start} seconds')
 
-async def main():
+def main():
 
     # filter out reachable pages based on black keywords
     # if the innerhtml contains these strings
@@ -33,14 +33,11 @@ async def main():
     #     blackword2 = "403 Forbidden"
 
     year = 1997
-    tasks = []
     while (year < 2023):
-        task = asyncio.ensure_future(filter_out(year));
-        tasks.append(task)
+        asyncio.run(filter_out(year))
         year += 2
-    await asyncio.gather(*tasks, return_exceptions=True)
 
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()

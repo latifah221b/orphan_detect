@@ -4524,7 +4524,8 @@ http://www.cs.brown.edu/news/2001/1105.ITRs.html
 http://www.cs.brown.edu/grad/phd/proposal
 http://www.cs.brown.edu/news/2001/1106.IPP.html
 http://www.cs.brown.edu:80/news/2001/1121.Kanellakis.html
-http://www.cs.brown.edu:80/people/black/arvo92.htmlhttp://www.cs.brown.edu/news/2001/1121.Kanellakis.html
+http://www.cs.brown.edu:80/people/black/arvo92.html
+http://www.cs.brown.edu/news/2001/1121.Kanellakis.html
 http://www.cs.brown.edu:80/grad/phd/reqs
 http://www.cs.brown.edu/news/2001/1204.Awards.html
 http://www.cs.brown.edu/news/2002/0226.JOBS.html

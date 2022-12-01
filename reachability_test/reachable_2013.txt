@@ -2315,7 +2315,8 @@ http://cs.brown.edu/people/arjun
 http://cs.brown.edu/people/avd
 http://cs.brown.edu:80/people/archita
 http://cs.brown.edu/people/backman
-http://cs.brown.edu:80/people/blackhttp://cs.brown.edu:80/industry
+http://cs.brown.edu:80/people/black
+http://cs.brown.edu:80/industry
 http://cs.brown.edu:80/grad/phd/proposal
 http://cs.brown.edu:80/grad/phd/reqs
 http://cs.brown.edu/industry/ipp/symposia/ipp39

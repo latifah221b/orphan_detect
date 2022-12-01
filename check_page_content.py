@@ -79,17 +79,18 @@ def downloadsnapshots(from_date:int ,to_date:int, url:str,all_urls ):
 
 
 def main():
-    all_urls = []
-
-    urls = read_list("reachable_{}_filtred_across_years.txt".format(2021))
-    print()
-    i = 1.0
-    for u in urls:
-        downloadsnapshots(1997,2022,u,all_urls)
-        i = i+1.0
-        print(i/len(urls))
-
-    store_json("{}_compersion.json".format(2021), all_urls)
+    year = 1997
+    while year < 2023:
+        all_urls = []
+        urls = read_list("./filter_across_years_phase/reachable_{}_filtred_across_years.txt".format(year))
+        i = 1.0
+        for u in urls:
+            downloadsnapshots(1997,2022,u,all_urls)
+            i = i+1.0
+            print(i/len(urls))
+        print("estimated age is done for {},and resulted in this number {}".format(year ,len(all_urls)))
+        store_json("./estimation_phase/{}_compersion.json".format(year), all_urls)
+        year += 2
 
 if __name__ == "__main__":
     main()

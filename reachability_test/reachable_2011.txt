@@ -1848,7 +1848,8 @@ http://www.cs.brown.edu/news/2004/0322.Heft.html
 http://www.cs.brown.edu/people/black/affiliations.htm
 http://www.cs.brown.edu:80/people/black/aniso.html
 http://www.cs.brown.edu:80/grad
-http://www.cs.brown.edu:80/people/black/appear.htmlhttp://www.cs.brown.edu/news/2004/0909.newfaculty.html
+http://www.cs.brown.edu:80/people/black/appear.html
+http://www.cs.brown.edu/news/2004/0909.newfaculty.html
 http://www.cs.brown.edu/news/2004/0421.Godel.html
 http://www.cs.brown.edu/news/2004/0504.PECASE.html
 http://www.cs.brown.edu:80/industry
