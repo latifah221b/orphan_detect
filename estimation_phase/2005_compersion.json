@@ -6,6 +6,11 @@
     },
     {
         "age": "2005",
+        "last_archived_version": "2017",
+        "url": "cs.brown.edu/about/directions/maps.html\n"
+    },
+    {
+        "age": "2005",
         "last_archived_version": "2013",
         "url": "cs.brown.edu/about/directions/ripta.html\n"
     },
@@ -23,6 +28,11 @@
         "age": "2005",
         "last_archived_version": "2007",
         "url": "cs.brown.edu/about/directions/walk.html\n"
+    },
+    {
+        "age": "2003",
+        "last_archived_version": "2016",
+        "url": "cs.brown.edu/courses/cs004/index.html\n"
     },
     {
         "age": "2005",
@@ -923,6 +933,11 @@
         "age": "2005",
         "last_archived_version": "2005",
         "url": "cs.brown.edu/courses/cs024/lectures/vector2_03_02_05_files/frame.htm\n"
+    },
+    {
+        "age": "2005",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/courses/cs024/onlineReading.html\n"
     },
     {
         "age": "2005",
@@ -2450,6 +2465,11 @@
         "url": "cs.brown.edu/courses/cs092/Hasbro/storyIntro.html\n"
     },
     {
+        "age": "2006",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/courses/cs157/assignments.html\n"
+    },
+    {
         "age": "2001",
         "last_archived_version": "2008",
         "url": "cs.brown.edu/courses/cs159/assignments.html\n"
@@ -2805,6 +2825,16 @@
         "url": "cs.brown.edu/courses/cs296-2/schedule.html\n"
     },
     {
+        "age": "2003",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/ta/admin/office.html\n"
+    },
+    {
+        "age": "2003",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/ta/admin/sched.html\n"
+    },
+    {
         "age": "2006",
         "last_archived_version": "2006",
         "url": "cs.brown.edu/events/talks/barghavan.html\n"
@@ -2988,6 +3018,11 @@
         "age": "2006",
         "last_archived_version": "2006",
         "url": "cs.brown.edu/events/talks/ls.2.html\n"
+    },
+    {
+        "age": "2005",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/events/talks/nash.html\n"
     },
     {
         "age": "2006",
@@ -7111,6 +7146,11 @@
     },
     {
         "age": "2005",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/about/directions\n"
+    },
+    {
+        "age": "2005",
         "last_archived_version": "2005",
         "url": "cs.brown.edu/cgc/java3.datastructures.net/source/ch10/Java/IntersectMerge-IntersectMerger.html\n"
     },
@@ -7133,6 +7173,11 @@
         "age": "2005",
         "last_archived_version": "2005",
         "url": "cs.brown.edu/cgc/java3.datastructures.net/source/ch10/Java/Sort-mergeSort.html\n"
+    },
+    {
+        "age": "2006",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/about/conduit\n"
     },
     {
         "age": "2005",
@@ -7275,6 +7320,11 @@
         "url": "cs.brown.edu/courses/cs149\n"
     },
     {
+        "age": "2005",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/cs125\n"
+    },
+    {
         "age": "2004",
         "last_archived_version": "2005",
         "url": "cs.brown.edu/courses/cs161\n"
@@ -7360,6 +7410,11 @@
         "url": "cs.brown.edu/courses/cs234/2005\n"
     },
     {
+        "age": "2001",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/courses/cs237\n"
+    },
+    {
         "age": "2006",
         "last_archived_version": "2007",
         "url": "cs.brown.edu/courses/cs196-1/projects.html\n"
@@ -7376,13 +7431,43 @@
     },
     {
         "age": "2005",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/events/reunion\n"
+    },
+    {
+        "age": "2005",
         "last_archived_version": "2008",
         "url": "cs.brown.edu/facilities\n"
+    },
+    {
+        "age": "2001",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2000\n"
+    },
+    {
+        "age": "2001",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2001\n"
     },
     {
         "age": "2006",
         "last_archived_version": "2006",
         "url": "cs.brown.edu/cgc/net.datastructures.net/doc/net/datastructures/Sort.html\n"
+    },
+    {
+        "age": "2002",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2002\n"
+    },
+    {
+        "age": "2005",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2005\n"
+    },
+    {
+        "age": "2006",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2006\n"
     },
     {
         "age": "2006",
@@ -7883,6 +7968,11 @@
         "age": "2005",
         "last_archived_version": "2011",
         "url": "cs.brown.edu/courses/cs196-1\n"
+    },
+    {
+        "age": "2006",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/about/books\n"
     },
     {
         "age": "2006",
