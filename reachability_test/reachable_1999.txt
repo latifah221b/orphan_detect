@@ -782,5 +782,6 @@ http://www.cs.brown.edu:80/people/amygreen
 http://www.cs.brown.edu:80/orgs
 http://www.cs.brown.edu:80/people/avd
 http://www.cs.brown.edu:80/people/asf
-http://www.cs.brown.edu:80/people/blackhttp://www.cs.brown.edu:80/industry/ipp
+http://www.cs.brown.edu:80/people/black
+http://www.cs.brown.edu:80/industry/ipp
 http://www.cs.brown.edu:80/orgs/dug
