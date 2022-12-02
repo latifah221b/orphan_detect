@@ -15,7 +15,7 @@ async def download_all(urls:list):
         available_links = []
         for url in urls:
             task = asyncio.ensure_future(download_link(url=url,session=session,
-                                                       available_links=available_links))
+                                                       available_links=available_links,))
             tasks.append(task)
         await asyncio.gather(*tasks,return_exceptions=True)
         return available_links
