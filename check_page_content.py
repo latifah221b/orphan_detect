@@ -3,7 +3,7 @@ from way.session import Session
 from way.pack import Pack
 from way.cdx import search
 import json
-import logging
+
 
 def read_list(file_name):
     urls = []
@@ -79,7 +79,7 @@ def downloadsnapshots(from_date:int ,to_date:int, url:str,all_urls ):
 
 
 def main():
-    year = 1997
+    year = 2017
     while year < 2023:
         all_urls = []
         urls = read_list("./filter_across_years_phase/reachable_{}_filtred_across_years.txt".format(year))

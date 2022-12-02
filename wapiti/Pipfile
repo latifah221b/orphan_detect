@@ -1,0 +1,37 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pytest = ">=6.2.2"
+respx = "==0.20.0"
+pytest-asyncio = "==0.20.1"
+pytest-cov = ">=2.11.1"
+
+[packages]
+"httpx[brotli, socks]" = "==0.23.0"
+beautifulsoup4 = ">=4.10.0"
+mako = ">=1.1.4"
+markupsafe = "==2.1.1"
+pytest = ">=5.4.1"
+tld = ">=0.12.5"
+yaswfp = ">=0.9.3"
+six = ">=1.15.0"
+browser-cookie3 = "==0.16.2"
+sqlalchemy = ">=1.4.26"
+aiocache = "==0.11.1"
+aiosqlite = "==0.17.0"
+loguru = ">=0.5.3"
+dnspython = "==2.1.0"
+httpcore = "==0.15.0"
+sslyze = "==5.0.6"
+humanize = "==4.4.0"
+mitmproxy = "==8.0.0"
+h11 = "==0.12"
+arsenic = "==21.8"
+pyasn1 = "==0.4.8"
+aiohttp = "==3.8.1"
+
+[requires]
+python_version = "3.8"
