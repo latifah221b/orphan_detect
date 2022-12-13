@@ -14,7 +14,7 @@ def read_json(file_name):
 def main():
 
     year = 1997
-    while year < 2019:
+    while year < 2023:
         json_list = [];
         jsons = read_json("./estimation_phase/{}_compersion.json".format(year))
         for j in jsons:

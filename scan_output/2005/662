@@ -358,14 +358,14 @@
     "Content Security Policy Configuration": [
       {
         "method": "GET",
-        "path": "/cgc/java3.datastructures.net/hints/C-11-13/C-11.13-hint.html",
+        "path": "/cgc/java3.datastructures.net/hints/C-11-16/C-11.16-hint.html",
         "info": "CSP is not set",
         "level": 1,
         "parameter": "",
         "referer": "",
         "module": "csp",
-        "http_request": "GET /cgc/java3.datastructures.net/hints/C-11-13/C-11.13-hint.html HTTP/1.1\nhost: cs.brown.edu\nconnection: keep-alive\nuser-agent: Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0\naccept-language: en-US\naccept-encoding: gzip, deflate, br\naccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-        "curl_command": "curl \"https://cs.brown.edu/cgc/java3.datastructures.net/hints/C-11-13/C-11.13-hint.html\"",
+        "http_request": "GET /cgc/java3.datastructures.net/hints/C-11-16/C-11.16-hint.html HTTP/1.1\nhost: cs.brown.edu\nconnection: keep-alive\nuser-agent: Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0\naccept-language: en-US\naccept-encoding: gzip, deflate, br\naccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "curl_command": "curl \"https://cs.brown.edu/cgc/java3.datastructures.net/hints/C-11-16/C-11.16-hint.html\"",
         "wstg": [
           "WSTG-CONF-12",
           "OSHP-Content-Security-Policy"
@@ -382,42 +382,42 @@
     "HTTP Secure Headers": [
       {
         "method": "GET",
-        "path": "/cgc/java3.datastructures.net/hints/C-11-13/C-11.13-hint.html",
+        "path": "/cgc/java3.datastructures.net/hints/C-11-16/C-11.16-hint.html",
         "info": "X-Frame-Options is not set",
         "level": 1,
         "parameter": "",
         "referer": "",
         "module": "http_headers",
-        "http_request": "GET /cgc/java3.datastructures.net/hints/C-11-13/C-11.13-hint.html HTTP/1.1\nhost: cs.brown.edu\nconnection: keep-alive\nuser-agent: Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0\naccept-language: en-US\naccept-encoding: gzip, deflate, br\naccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-        "curl_command": "curl \"https://cs.brown.edu/cgc/java3.datastructures.net/hints/C-11-13/C-11.13-hint.html\"",
+        "http_request": "GET /cgc/java3.datastructures.net/hints/C-11-16/C-11.16-hint.html HTTP/1.1\nhost: cs.brown.edu\nconnection: keep-alive\nuser-agent: Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0\naccept-language: en-US\naccept-encoding: gzip, deflate, br\naccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "curl_command": "curl \"https://cs.brown.edu/cgc/java3.datastructures.net/hints/C-11-16/C-11.16-hint.html\"",
         "wstg": [
           "OSHP-X-Frame-Options"
         ]
       },
       {
         "method": "GET",
-        "path": "/cgc/java3.datastructures.net/hints/C-11-13/C-11.13-hint.html",
+        "path": "/cgc/java3.datastructures.net/hints/C-11-16/C-11.16-hint.html",
         "info": "X-Content-Type-Options is not set",
         "level": 1,
         "parameter": "",
         "referer": "",
         "module": "http_headers",
-        "http_request": "GET /cgc/java3.datastructures.net/hints/C-11-13/C-11.13-hint.html HTTP/1.1\nhost: cs.brown.edu\nconnection: keep-alive\nuser-agent: Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0\naccept-language: en-US\naccept-encoding: gzip, deflate, br\naccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-        "curl_command": "curl \"https://cs.brown.edu/cgc/java3.datastructures.net/hints/C-11-13/C-11.13-hint.html\"",
+        "http_request": "GET /cgc/java3.datastructures.net/hints/C-11-16/C-11.16-hint.html HTTP/1.1\nhost: cs.brown.edu\nconnection: keep-alive\nuser-agent: Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0\naccept-language: en-US\naccept-encoding: gzip, deflate, br\naccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "curl_command": "curl \"https://cs.brown.edu/cgc/java3.datastructures.net/hints/C-11-16/C-11.16-hint.html\"",
         "wstg": [
           "OSHP-X-Content-Type-Options"
         ]
       },
       {
         "method": "GET",
-        "path": "/cgc/java3.datastructures.net/hints/C-11-13/C-11.13-hint.html",
+        "path": "/cgc/java3.datastructures.net/hints/C-11-16/C-11.16-hint.html",
         "info": "Strict-Transport-Security is not set",
         "level": 1,
         "parameter": "",
         "referer": "",
         "module": "http_headers",
-        "http_request": "GET /cgc/java3.datastructures.net/hints/C-11-13/C-11.13-hint.html HTTP/1.1\nhost: cs.brown.edu\nconnection: keep-alive\nuser-agent: Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0\naccept-language: en-US\naccept-encoding: gzip, deflate, br\naccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-        "curl_command": "curl \"https://cs.brown.edu/cgc/java3.datastructures.net/hints/C-11-13/C-11.13-hint.html\"",
+        "http_request": "GET /cgc/java3.datastructures.net/hints/C-11-16/C-11.16-hint.html HTTP/1.1\nhost: cs.brown.edu\nconnection: keep-alive\nuser-agent: Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0\naccept-language: en-US\naccept-encoding: gzip, deflate, br\naccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "curl_command": "curl \"https://cs.brown.edu/cgc/java3.datastructures.net/hints/C-11-16/C-11.16-hint.html\"",
         "wstg": [
           "WSTG-CONF-07",
           "OSHP-HTTP-Strict-Transport-Security"
@@ -446,8 +446,8 @@
     "HTTP Methods": []
   },
   "infos": {
-    "target": "https://cs.brown.edu/cgc/java3.datastructures.net/hints/C-11-13/C-11.13-hint.html",
-    "date": "Fri, 02 Dec 2022 06:35:04 +0000",
+    "target": "https://cs.brown.edu/cgc/java3.datastructures.net/hints/C-11-16/C-11.16-hint.html",
+    "date": "Mon, 05 Dec 2022 20:36:19 +0000",
     "version": "Wapiti 3.1.4",
     "scope": "page",
     "auth": null,

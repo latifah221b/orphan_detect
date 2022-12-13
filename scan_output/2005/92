@@ -358,14 +358,14 @@
     "Content Security Policy Configuration": [
       {
         "method": "GET",
-        "path": "/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/slide0006.htm",
+        "path": "/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/frame.htm",
         "info": "CSP is not set",
         "level": 1,
         "parameter": "",
         "referer": "",
         "module": "csp",
-        "http_request": "GET /courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/slide0006.htm HTTP/1.1\nhost: cs.brown.edu\nconnection: keep-alive\nuser-agent: Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0\naccept-language: en-US\naccept-encoding: gzip, deflate, br\naccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-        "curl_command": "curl \"https://cs.brown.edu/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/slide0006.htm\"",
+        "http_request": "GET /courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/frame.htm HTTP/1.1\nhost: cs.brown.edu\nconnection: keep-alive\nuser-agent: Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0\naccept-language: en-US\naccept-encoding: gzip, deflate, br\naccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "curl_command": "curl \"https://cs.brown.edu/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/frame.htm\"",
         "wstg": [
           "WSTG-CONF-12",
           "OSHP-Content-Security-Policy"
@@ -382,42 +382,42 @@
     "HTTP Secure Headers": [
       {
         "method": "GET",
-        "path": "/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/slide0006.htm",
+        "path": "/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/frame.htm",
         "info": "X-Frame-Options is not set",
         "level": 1,
         "parameter": "",
         "referer": "",
         "module": "http_headers",
-        "http_request": "GET /courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/slide0006.htm HTTP/1.1\nhost: cs.brown.edu\nconnection: keep-alive\nuser-agent: Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0\naccept-language: en-US\naccept-encoding: gzip, deflate, br\naccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-        "curl_command": "curl \"https://cs.brown.edu/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/slide0006.htm\"",
+        "http_request": "GET /courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/frame.htm HTTP/1.1\nhost: cs.brown.edu\nconnection: keep-alive\nuser-agent: Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0\naccept-language: en-US\naccept-encoding: gzip, deflate, br\naccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "curl_command": "curl \"https://cs.brown.edu/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/frame.htm\"",
         "wstg": [
           "OSHP-X-Frame-Options"
         ]
       },
       {
         "method": "GET",
-        "path": "/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/slide0006.htm",
+        "path": "/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/frame.htm",
         "info": "X-Content-Type-Options is not set",
         "level": 1,
         "parameter": "",
         "referer": "",
         "module": "http_headers",
-        "http_request": "GET /courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/slide0006.htm HTTP/1.1\nhost: cs.brown.edu\nconnection: keep-alive\nuser-agent: Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0\naccept-language: en-US\naccept-encoding: gzip, deflate, br\naccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-        "curl_command": "curl \"https://cs.brown.edu/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/slide0006.htm\"",
+        "http_request": "GET /courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/frame.htm HTTP/1.1\nhost: cs.brown.edu\nconnection: keep-alive\nuser-agent: Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0\naccept-language: en-US\naccept-encoding: gzip, deflate, br\naccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "curl_command": "curl \"https://cs.brown.edu/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/frame.htm\"",
         "wstg": [
           "OSHP-X-Content-Type-Options"
         ]
       },
       {
         "method": "GET",
-        "path": "/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/slide0006.htm",
+        "path": "/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/frame.htm",
         "info": "Strict-Transport-Security is not set",
         "level": 1,
         "parameter": "",
         "referer": "",
         "module": "http_headers",
-        "http_request": "GET /courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/slide0006.htm HTTP/1.1\nhost: cs.brown.edu\nconnection: keep-alive\nuser-agent: Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0\naccept-language: en-US\naccept-encoding: gzip, deflate, br\naccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-        "curl_command": "curl \"https://cs.brown.edu/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/slide0006.htm\"",
+        "http_request": "GET /courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/frame.htm HTTP/1.1\nhost: cs.brown.edu\nconnection: keep-alive\nuser-agent: Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0\naccept-language: en-US\naccept-encoding: gzip, deflate, br\naccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "curl_command": "curl \"https://cs.brown.edu/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/frame.htm\"",
         "wstg": [
           "WSTG-CONF-07",
           "OSHP-HTTP-Strict-Transport-Security"
@@ -446,8 +446,8 @@
     "HTTP Methods": []
   },
   "infos": {
-    "target": "https://cs.brown.edu/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/slide0006.htm",
-    "date": "Fri, 02 Dec 2022 05:41:53 +0000",
+    "target": "https://cs.brown.edu/courses/cs024/lectures/lect_03_semiotics/lect_03_art_semiotics_files/frame.htm",
+    "date": "Mon, 05 Dec 2022 19:59:55 +0000",
     "version": "Wapiti 3.1.4",
     "scope": "page",
     "auth": null,

@@ -14,8 +14,8 @@ def read_json(file_name):
 
 def main():
     #check_redirect all pages from 1997 to 2022,each round will cover two years
-    year = 1997
-    while year < 2019:
+    year = 2019
+    while year < 2023:
         json = read_json("./potential_orphaned_urls/{}_potential_orphaned.json".format(year))
         a = asyncio.run(download_all(json))
         store_json('./redirect_test/noneredirect_{}.json'.format(year), a)
