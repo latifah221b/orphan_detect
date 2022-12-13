@@ -2,17 +2,12 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs019/2018/docdiffdocdiff.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs019/2018/laptop-policy.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs019/2018/updaterupdater.html\n"
+        "url": "cs.brown.edu/courses/cs019/2018/docdiffdocdiff.html\n"
     },
     {
         "age": "2020",
@@ -25,9 +20,9 @@
         "url": "cs.brown.edu/courses/cs019/2019/docdiffdocdiff.html\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0111/fall2020/documents.html\n"
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs019/2018/updaterupdater.html\n"
     },
     {
         "age": "2020",
@@ -42,12 +37,12 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0111/fall2020/learning.html\n"
+        "url": "cs.brown.edu/courses/csci0111/fall2020/documents.html\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0111/fall2020/labs.html\n"
+        "url": "cs.brown.edu/courses/csci0111/fall2020/learning.html\n"
     },
     {
         "age": "2020",
@@ -57,12 +52,12 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0111/fall2020/staff.html\n"
+        "url": "cs.brown.edu/courses/csci0111/fall2020/labs.html\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0111/fall2020/software.html\n"
+        "url": "cs.brown.edu/courses/csci0111/fall2020/staff.html\n"
     },
     {
         "age": "2020",
@@ -72,17 +67,7 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0920/2000/sadina/images.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0920/2000/sadina/about.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0920/2000/sadina/index.html\n"
+        "url": "cs.brown.edu/courses/csci0111/fall2020/software.html\n"
     },
     {
         "age": "2020",
@@ -92,7 +77,22 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0920/2000/sadina/screen.html\n"
+        "url": "cs.brown.edu/courses/csci0920/2000/sadina/about.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci0920/2000/sadina/images.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci0920/2000/sadina/index.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci0920/2000/sadina/photos.html\n"
     },
     {
         "age": "2020",
@@ -102,7 +102,7 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0920/2000/sadina/photos.html\n"
+        "url": "cs.brown.edu/courses/csci0920/2000/sadina/screen.html\n"
     },
     {
         "age": "2020",
@@ -117,17 +117,17 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci1951-h/index.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
         "url": "cs.brown.edu/courses/csci2952k/schedule.html\n"
     },
     {
         "age": "2015",
         "last_archived_version": "2015",
         "url": "cs.brown.edu/courses/csci1950-h/home.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1951-h/index.html\n"
     },
     {
         "age": "2020",
@@ -141,7 +141,7 @@
     },
     {
         "age": "2020",
-        "last_archived_version": "2021",
+        "last_archived_version": "2022",
         "url": "cs.brown.edu/news/2020/05/18/phd-student-jing-qian-and-adobe-add-ar-annotations-physical-documents/?edit\n"
     },
     {
@@ -167,17 +167,17 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
+        "url": "cs.brown.edu/cgc/java3.datastructures.net/errata.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
         "url": "cs.brown.edu/cgc/java3.datastructures.net/contents/contents.html\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2020",
         "url": "cs.brown.edu/cgc/java3.datastructures.net/instructor.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/cgc/java3.datastructures.net/errata.html\n"
     },
     {
         "age": "2019",
@@ -202,17 +202,12 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/deprecated-list.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/allclasses-frame.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/allclasses-noframe.html\n"
+        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/deprecated-list.html\n"
     },
     {
         "age": "2019",
@@ -222,7 +217,7 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/AdjacencyListGraph.MyEdge.html\n"
+        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/allclasses-noframe.html\n"
     },
     {
         "age": "2019",
@@ -232,22 +227,12 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/AdjacencyListGraph.MyEdge.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/AdjacencyListGraph.MyPosition.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/AVLTree.AVLNode.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/ArrayListCompleteBinaryTree.BTPos.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/BoundaryViolationException.html\n"
     },
     {
         "age": "2019",
@@ -257,7 +242,7 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/BinaryTree.html\n"
+        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/ArrayListCompleteBinaryTree.BTPos.html\n"
     },
     {
         "age": "2019",
@@ -267,7 +252,17 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/BTPosition.html\n"
+        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/BinaryTree.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/AVLTree.AVLNode.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/BoundaryViolationException.html\n"
     },
     {
         "age": "2019",
@@ -277,12 +272,7 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/Edge.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/EmptyTreeException.html\n"
+        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/BTPosition.html\n"
     },
     {
         "age": "2019",
@@ -292,12 +282,7 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/DNode.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/InvalidPositionException.html\n"
+        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/Edge.html\n"
     },
     {
         "age": "2019",
@@ -307,12 +292,22 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/LinkedTree.html\n"
+        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/DNode.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/NonEmptyTreeException.html\n"
+        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/EmptyTreeException.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/InvalidPositionException.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/LinkedTree.html\n"
     },
     {
         "age": "2019",
@@ -327,6 +322,11 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/NonEmptyTreeException.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/package-tree.html\n"
     },
     {
@@ -337,22 +337,22 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/Sequence.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/RBTree.RBNode.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/TreePosition.html\n"
+        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/Tree.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/Tree.html\n"
+        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/Sequence.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs016/static/files/docs/nds4/net/datastructures/TreePosition.html\n"
     },
     {
         "age": "2019",
@@ -382,32 +382,12 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs019/2018/filesystemfilesystem.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs019/2018/final-quizfinal-quiz.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs019/2018/join-listsjoin-lists.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs019/2018/mstmst.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs019/2018/map-reducemap-reduce.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs019/2018/oracleoracle.html\n"
+        "url": "cs.brown.edu/courses/cs019/2018/filesystemfilesystem.html\n"
     },
     {
         "age": "2019",
@@ -417,12 +397,27 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs019/2018/join-listsjoin-lists.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs019/2018/map-reducemap-reduce.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs019/2018/mstmst.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs019/2018/nilenile.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs019/2018/sortaclesortacle.html\n"
+        "url": "cs.brown.edu/courses/cs019/2018/oracleoracle.html\n"
     },
     {
         "age": "2019",
@@ -432,17 +427,17 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs019/2018/tour-guidetour-guide.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs019/2018/textbook.html\n"
     },
     {
         "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/cs019/2019/assignments.html\n"
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs019/2018/sortaclesortacle.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs019/2018/tour-guidetour-guide.html\n"
     },
     {
         "age": "2019",
@@ -457,6 +452,16 @@
     {
         "age": "2019",
         "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/cs019/2019/assignments.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/cs019/2019/index.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
         "url": "cs.brown.edu/courses/cs019/2019/laptop-policy.html\n"
     },
     {
@@ -467,12 +472,12 @@
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/cs019/2019/index.html\n"
+        "url": "cs.brown.edu/courses/cs019/2019/late-policy.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/cs019/2019/late-policy.html\n"
+        "url": "cs.brown.edu/courses/cs019/2019/README.html\n"
     },
     {
         "age": "2019",
@@ -487,22 +492,17 @@
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/cs019/2019/Software.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
         "url": "cs.brown.edu/courses/cs019/2019/staff.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/cs019/2019/README.html\n"
+        "url": "cs.brown.edu/courses/cs019/2019/Textbook.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/cs019/2019/Textbook.html\n"
+        "url": "cs.brown.edu/courses/cs019/2019/Software.html\n"
     },
     {
         "age": "2019",
@@ -517,12 +517,12 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs129/asgn/proj2_hdr/index.html\n"
+        "url": "cs.brown.edu/courses/cs129/2011/results/final/ebnelson/results.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs129/2011/results/final/ebnelson/results.html\n"
+        "url": "cs.brown.edu/courses/cs129/asgn/proj2_hdr/index.html\n"
     },
     {
         "age": "2019",
@@ -537,27 +537,12 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs129/labs/lab_bilateral/index.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs129/labs/lab_nightlab/index.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs129/labs/lab_exposure/index.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs129/asgn/proj4_textureandseams/index.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs129/labs/lab_raw/index.html\n"
+        "url": "cs.brown.edu/courses/cs129/labs/lab_bilateral/index.html\n"
     },
     {
         "age": "2019",
@@ -567,7 +552,22 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs129/labs/lab_exposure/index.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs129/labs/lab_nightlab/index.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs129/labs/lab_compositing/index.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs129/labs/lab_raw/index.html\n"
     },
     {
         "age": "2019",
@@ -580,24 +580,24 @@
         "url": "cs.brown.edu/courses/cs132/assignments/assignment1/assignment1.html\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/cs132/assignments/assignment2/assignment2.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs132/docs.html\n"
-    },
-    {
         "age": "2019",
         "last_archived_version": "2022",
         "url": "cs.brown.edu/courses/cs132/assignments/assignment3/assignment3.html\n"
     },
     {
         "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/cs132/assignments/assignment2/assignment2.html\n"
+    },
+    {
+        "age": "2020",
         "last_archived_version": "2020",
         "url": "cs.brown.edu/courses/cs132/docs/setup-handin-instructions.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs132/docs.html\n"
     },
     {
         "age": "2020",
@@ -627,12 +627,17 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs137/2015/links.shtml\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs137/2015/images.shtml\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs137/2015/links.shtml\n"
+        "url": "cs.brown.edu/courses/cs137/assignments/2019/asgn1.html\n"
     },
     {
         "age": "2019",
@@ -647,17 +652,7 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs137/assignments/2019/asgn1.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs138/s19/announcements.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs138/s19/calendar.html\n"
     },
     {
         "age": "2019",
@@ -667,12 +662,17 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs138/s19/index.html\n"
+        "url": "cs.brown.edu/courses/cs138/s19/exams.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs138/s19/exams.html\n"
+        "url": "cs.brown.edu/courses/cs138/s19/calendar.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs138/s19/index.html\n"
     },
     {
         "age": "2019",
@@ -682,12 +682,12 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs1470/dlday.html\n"
+        "url": "cs.brown.edu/courses/cs143/2017_Fall/index.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs1470/projects/public/hw2-cnn/hw2-cnn.html\n"
+        "url": "cs.brown.edu/courses/cs1470/dlday.html\n"
     },
     {
         "age": "2019",
@@ -697,7 +697,17 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs1470/projects/public/hw2-cnn/hw2-cnn.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs1470/projects/public/hw3-lm/hw3-lm.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs1470/projects/public/hw5-mpnns/hw5-mpnn.html\n"
     },
     {
         "age": "2019",
@@ -708,11 +718,6 @@
         "age": "2019",
         "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs1470/projects/public/hw7-dcgan/hw7-dcgan.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs1470/projects/public/hw5-mpnns/hw5-mpnn.html\n"
     },
     {
         "age": "2019",
@@ -731,13 +736,28 @@
     },
     {
         "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/cs168/f19/assignments.html\n"
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/course-slides\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci0112\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2020",
         "url": "cs.brown.edu/courses/cs168/f19/documents.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci0060\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/cs168/f19/assignments.html\n"
     },
     {
         "age": "2020",
@@ -750,24 +770,19 @@
         "url": "cs.brown.edu/courses/cs168/f19/schedule.html\n"
     },
     {
-        "age": "2011",
-        "last_archived_version": "2011",
-        "url": "cs.brown.edu/courses/cs173/2008/Manual/index.html\n"
-    },
-    {
         "age": "2019",
         "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs173/2008/Assignments/06-web-prog-raw.html\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/course-slides\n"
+        "age": "2011",
+        "last_archived_version": "2011",
+        "url": "cs.brown.edu/courses/cs173/2008/Manual/index.html\n"
     },
     {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs173/2008/Manual/reference/creatingunits.html\n"
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci1301\n"
     },
     {
         "age": "2019",
@@ -777,17 +792,12 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs173/2008/Manual/reference/creatingunits.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs173/2008/Manual/reference/Manipulating_Paths.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci0060\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci0112\n"
     },
     {
         "age": "2019",
@@ -802,6 +812,21 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs173/2008/Manual/reference/strings.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs173/2008/Manual/scribble/basic.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs173/2008/Manual/scribble/bnf.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs173/2008/Manual/scribble/decode.html\n"
     },
     {
@@ -812,27 +837,17 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs173/2008/Manual/scribble/docreader.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs173/2008/Manual/scribble/doclang.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs173/2008/Manual/scribble/bnf.html\n"
+        "url": "cs.brown.edu/courses/cs173/2008/Manual/scribble/docreader.html\n"
     },
     {
         "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs173/2008/Manual/scribble/eval.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs173/2008/Manual/scribble/basic.html\n"
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci1805\n"
     },
     {
         "age": "2019",
@@ -842,17 +857,22 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs173/2008/Manual/scribble/How_to_Scribble_Documentation.html\n"
+        "url": "cs.brown.edu/courses/cs173/2008/Manual/scribble/eval.html\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci1301\n"
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs173/2008/Manual/scribble/How_to_Scribble_Documentation.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs173/2008/Manual/scribble/index.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs173/2008/Manual/scribble/manual.html\n"
     },
     {
         "age": "2019",
@@ -866,13 +886,8 @@
     },
     {
         "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs173/2008/Manual/scribble/manual.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs173/2008/Manual/reference/strings.html\n"
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci1951-d\n"
     },
     {
         "age": "2019",
@@ -886,8 +901,38 @@
     },
     {
         "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci1951-i\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci1951-m\n"
+    },
+    {
+        "age": "2019",
         "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs173/2008/Manual/scribble/section-links.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci1951-n\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/courses/info/csci1951-l\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci1951-t\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci1951-u\n"
     },
     {
         "age": "2019",
@@ -900,54 +945,9 @@
         "url": "cs.brown.edu/courses/cs173/2008/Manual/scribble/xref.html\n"
     },
     {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs173/2008/Manual/setup-plt/main-collects.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci1805\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci1951-d\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci1951-i\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci1951-m\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/courses/info/csci1951-l\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci1951-n\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci1951-u\n"
-    },
-    {
         "age": "2020",
         "last_archived_version": "2022",
         "url": "cs.brown.edu/courses/info/csci1951-v\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci1951-t\n"
     },
     {
         "age": "2019",
@@ -956,8 +956,8 @@
     },
     {
         "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci2390\n"
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs173/2008/Manual/setup-plt/main-collects.html\n"
     },
     {
         "age": "2017",
@@ -965,39 +965,9 @@
         "url": "cs.brown.edu/courses/info/csci2470\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/cs173/2020/generators.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/cs173/2020/human.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/cs173/2020/assignments.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs176/form.shtml\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/cs190/2008/readings.shtml\n"
-    },
-    {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci2952-b\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci2952-h\n"
+        "url": "cs.brown.edu/courses/info/csci2390\n"
     },
     {
         "age": "2019",
@@ -1012,7 +982,17 @@
     {
         "age": "2019",
         "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci2952-b\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
         "url": "cs.brown.edu/courses/info/csci2952-i\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci2952-h\n"
     },
     {
         "age": "2019",
@@ -1025,14 +1005,14 @@
         "url": "cs.brown.edu/courses/info/data0200\n"
     },
     {
-        "age": "2017",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/data1030\n"
-    },
-    {
         "age": "2020",
         "last_archived_version": "2021",
         "url": "cs.brown.edu/courses/info/data1050\n"
+    },
+    {
+        "age": "2017",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/data1030\n"
     },
     {
         "age": "2020",
@@ -1046,8 +1026,13 @@
     },
     {
         "age": "2020",
-        "last_archived_version": "2021",
+        "last_archived_version": "2022",
         "url": "cs.brown.edu/covid\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/degrees/doctoral/applications/helpful-resources-applying-computer-science-phd-programs\n"
     },
     {
         "age": "2020",
@@ -1060,14 +1045,14 @@
         "url": "cs.brown.edu/degrees/undergrad/concentrating-in-cs/concentration-requirements-2020/cs-econ_scb-reqs\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/degrees/doctoral/applications/helpful-resources-applying-computer-science-phd-programs\n"
-    },
-    {
         "age": "2019",
         "last_archived_version": "2021",
         "url": "cs.brown.edu/events/kanellakis/knuth\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/degrees/undergrad/research/research-opportunities\n"
     },
     {
         "age": "2020",
@@ -1085,14 +1070,29 @@
         "url": "cs.brown.edu/news/2014/02/18/paul-valiant-receives-sloan-research-fellowship\n"
     },
     {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs195y/2016/assignments/sat-lab.html\n"
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/cs173/2020/generators.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/cs173/2020/assignments.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs195y/2016/notes/lec31.html\n"
+        "url": "cs.brown.edu/courses/cs176/form.shtml\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/cs173/2020/human.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/cs190/2008/readings.shtml\n"
     },
     {
         "age": "2020",
@@ -1103,6 +1103,16 @@
         "age": "2020",
         "last_archived_version": "2022",
         "url": "cs.brown.edu/news/2015/05/14/philip-klein-wins-radcliffe-institute-fellowship\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs195y/2016/assignments/sat-lab.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs195y/2016/notes/lec31.html\n"
     },
     {
         "age": "2020",
@@ -1117,12 +1127,12 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2016/11/17/george-konidaris-wins-afosr-young-investigator-research-award\n"
+        "url": "cs.brown.edu/news/2017/02/06/kathi-fisler-has-been-appointed-professor-research-and-associate-director-undergraduate-program\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2017/02/06/kathi-fisler-has-been-appointed-professor-research-and-associate-director-undergraduate-program\n"
+        "url": "cs.brown.edu/news/2016/11/17/george-konidaris-wins-afosr-young-investigator-research-award\n"
     },
     {
         "age": "2020",
@@ -1131,8 +1141,8 @@
     },
     {
         "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/cs195y/2020/pages/assignments.html\n"
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/news/2018/01\n"
     },
     {
         "age": "2019",
@@ -1143,11 +1153,6 @@
         "age": "2020",
         "last_archived_version": "2022",
         "url": "cs.brown.edu/news/2018/01/02/seny-kamara-advises-privacy-protecting-technical-solutions-forthcoming-legislation\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2018/01\n"
     },
     {
         "age": "2020",
@@ -1167,6 +1172,11 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2018/07/09/felzenszwalb-wins-longuet-higgins-prize-fundamental-contribution-computer-vision\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
         "url": "cs.brown.edu/news/2018/05/23/brown-cs-announces-full-funding-10m-uta-endowment\n"
     },
     {
@@ -1176,28 +1186,8 @@
     },
     {
         "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/news/2018/05\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2018/07/09/felzenszwalb-wins-longuet-higgins-prize-fundamental-contribution-computer-vision\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/news/2018/08\n"
-    },
-    {
-        "age": "2020",
         "last_archived_version": "2022",
         "url": "cs.brown.edu/news/2018/08/02/tellexs-outreach-inspires-high-school-student-study-robotics-then-teach\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2018/12/03/largest-expansion-brown-cs-history-cs-impact\n"
     },
     {
         "age": "2020",
@@ -1207,62 +1197,17 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2018/10/29/novotny-and-collaborators-win-vis-best-poster-award-visualizing-dinosaur-tracks\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
         "url": "cs.brown.edu/news/2018/11/15/theophilus-benson-wins-google-faculty-award-networking-emerging-regions\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/02/28/evan-cater-wins-randy-f-pausch-computer-science-undergraduate-summer-research-award\n"
+        "url": "cs.brown.edu/news/2018/10/29/novotny-and-collaborators-win-vis-best-poster-award-visualizing-dinosaur-tracks\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/02/23/jesse-polhemus-wins-brown-university-excellence-award\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/03/12/alum-adventures-brown-cs-alums-david-simons-daniel-wilk-and-michael-natkin-have-won-academy-award-work-adobe-after-effects\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2019/03\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2019/04\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/04/09/brown-cs-alums-jacob-beck-and-zoe-papakipos-have-been-published-new-scientist-work-autonomous-driving\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/04/09/brown-cs-student-liyaan-maskati-wins-association-women-mathematics-student-essay-contest-writing-about-ellie-pavlick\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/04/18/george-konidaris-wins-nsf-career-award-autonomous-robotic-learning\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/04/22/twenty-seven-students-win-brown-cs-senior-prizes\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/04/11/brown-cs-students-return-cyber-912-strategy-challenge\n"
+        "url": "cs.brown.edu/news/2018/12/03/largest-expansion-brown-cs-history-cs-impact\n"
     },
     {
         "age": "2020",
@@ -1277,17 +1222,72 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/04/24/doug-woos-joins-brown-cs-lecturer\n"
+        "url": "cs.brown.edu/news/2019/02/23/jesse-polhemus-wins-brown-university-excellence-award\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/news/2018/05\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2019/03\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2019/02/28/evan-cater-wins-randy-f-pausch-computer-science-undergraduate-summer-research-award\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2019/04/09/brown-cs-alums-jacob-beck-and-zoe-papakipos-have-been-published-new-scientist-work-autonomous-driving\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2021",
+        "url": "cs.brown.edu/news/2019/04\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/news/2018/08\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2019/04/18/george-konidaris-wins-nsf-career-award-autonomous-robotic-learning\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2019/04/09/brown-cs-student-liyaan-maskati-wins-association-women-mathematics-student-essay-contest-writing-about-ellie-pavlick\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2019/04/11/brown-cs-students-return-cyber-912-strategy-challenge\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2019/04/22/twenty-seven-students-win-brown-cs-senior-prizes\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/cs195y/2020/pages/assignments.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
         "url": "cs.brown.edu/news/2019/04/30/iris-bahar-wins-marie-r-pistilli-women-electronic-design-award\n"
     },
     {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/05/14/eickhoff-richie-tellex-and-tompkin-win-ovpr-seed-awards\n"
+        "age": "2020",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/news/2019/05\n"
     },
     {
         "age": "2020",
@@ -1297,27 +1297,12 @@
     {
         "age": "2020",
         "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2019/05\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2019/06/17/seny-kamara-and-collaborators-win-grant-responsible-cs-education\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2019/06\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2021",
         "url": "cs.brown.edu/news/2019/06/17/robert-sedgewick-brown-cs-alum-and-former-faculty-member-wins-acms-distinguished-educator-award\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/06/18/brown-cs-digital-archive-grows-more-100-items\n"
+        "url": "cs.brown.edu/news/2019/04/24/doug-woos-joins-brown-cs-lecturer\n"
     },
     {
         "age": "2020",
@@ -1327,7 +1312,22 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2019/06/18/brown-cs-digital-archive-grows-more-100-items\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2019/06/19/seny-kamara-consults-mongodb-help-them-create-end-end-encryption\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
         "url": "cs.brown.edu/news/2019/06/18/look-where-our-2019-graduates-are-headed\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2019/08/01/sohini-ramachandran-receives-presidential-early-career-award-scientists-and-engineers\n"
     },
     {
         "age": "2020",
@@ -1337,12 +1337,7 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/06/18/krishnamurthi-and-van-dam-win-sigsoft-and-siggraph-educator-awards\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2019/06/19/seny-kamara-consults-mongodb-help-them-create-end-end-encryption\n"
+        "url": "cs.brown.edu/news/2019/03/12/alum-adventures-brown-cs-alums-david-simons-daniel-wilk-and-michael-natkin-have-won-academy-award-work-adobe-after-effects\n"
     },
     {
         "age": "2020",
@@ -1362,12 +1357,22 @@
     {
         "age": "2020",
         "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2019/09\n"
+        "url": "cs.brown.edu/news/2019/06/17/seny-kamara-and-collaborators-win-grant-responsible-cs-education\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/09/26/applications-are-open-10k-pausch-undergraduate-summer-research-award\n"
+        "url": "cs.brown.edu/news/2019/05/14/eickhoff-richie-tellex-and-tompkin-win-ovpr-seed-awards\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/news/2019/06\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/news/2019/09\n"
     },
     {
         "age": "2020",
@@ -1380,19 +1385,24 @@
         "url": "cs.brown.edu/news/2019/09/13/andy-van-dams-acm-hypertext-keynote-will-reflect-half-century-hypertext\n"
     },
     {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2019/09/20/sydney-skybetter-asks-computer-scientists-consider-choreography-surveillant-systems\n"
+    },
+    {
         "age": "2020",
         "last_archived_version": "2021",
         "url": "cs.brown.edu/news/2019/09/13/brown-cs-alum-danah-boyd-wins-electronic-frontier-foundation-pioneer-award\n"
     },
     {
-        "age": "2020",
+        "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/08/01/sohini-ramachandran-receives-presidential-early-career-award-scientists-and-engineers\n"
+        "url": "cs.brown.edu/news/2019/09/25/evangelia-anna-markatou-and-roberto-tamassia-win-isc-best-paper-award\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2019/10\n"
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2019/09/26/applications-are-open-10k-pausch-undergraduate-summer-research-award\n"
     },
     {
         "age": "2019",
@@ -1400,9 +1410,14 @@
         "url": "cs.brown.edu/news/2019/10/01/paul-valiant-wins-theory-cryptography-conference-test-time-award\n"
     },
     {
-        "age": "2019",
+        "age": "2020",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/news/2019/10\n"
+    },
+    {
+        "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/09/20/sydney-skybetter-asks-computer-scientists-consider-choreography-surveillant-systems\n"
+        "url": "cs.brown.edu/news/2019/06/18/krishnamurthi-and-van-dam-win-sigsoft-and-siggraph-educator-awards\n"
     },
     {
         "age": "2019",
@@ -1410,9 +1425,9 @@
         "url": "cs.brown.edu/news/2019/10/03/brown-cs-alum-victoria-chavez-18-makes-impact-rhode-island-community\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/cs2951-l/ao15/redesign.html\n"
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2019/10/16/shriram-krishnamurthi-gives-invited-talk-pwlconf-recording-available\n"
     },
     {
         "age": "2019",
@@ -1425,14 +1440,9 @@
         "url": "cs.brown.edu/news/2019/10/22/amy-greenwald-gives-keynote-uemcon\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2019/11\n"
-    },
-    {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/10/16/shriram-krishnamurthi-gives-invited-talk-pwlconf-recording-available\n"
+        "url": "cs.brown.edu/news/2019/11/04/jiwon-choe-wins-memsys-best-student-presentation-award\n"
     },
     {
         "age": "2019",
@@ -1442,22 +1452,17 @@
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0030/collaborationPolicy.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/09/25/evangelia-anna-markatou-and-roberto-tamassia-win-isc-best-paper-award\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/11/04/jiwon-choe-wins-memsys-best-student-presentation-award\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
         "url": "cs.brown.edu/news/2019/11/08/brown-cs-announces-tenure-track-faculty-search-all-levels\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/news/2019/11\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2019/11/11/brown-cs-alums-dylan-field-and-evan-wallace-named-inc-2019-rising-stars\n"
     },
     {
         "age": "2019",
@@ -1467,7 +1472,7 @@
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/11/11/brown-cs-alums-dylan-field-and-evan-wallace-named-inc-2019-rising-stars\n"
+        "url": "cs.brown.edu/news/2019/12/04/seny-kamara-provides-data-security-testimony-congress\n"
     },
     {
         "age": "2019",
@@ -1485,14 +1490,19 @@
         "url": "cs.brown.edu/news/2020/01/06/celebrating-half-century-hypertext\n"
     },
     {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci0050/2017/Assignments/flags.html\n"
+        "age": "2020",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/news/2020\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2020/02/03/brown-cs-addresses-growth-and-student-support-constraints-and-challenges-bdh-op-ed\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2020\n"
+        "url": "cs.brown.edu/news/2020/02\n"
     },
     {
         "age": "2020",
@@ -1507,12 +1517,12 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/02/03/brown-cs-addresses-growth-and-student-support-constraints-and-challenges-bdh-op-ed\n"
+        "url": "cs.brown.edu/news/2020/02/13/brown-cs-undergrads-dai-and-bermudez-silverman-will-present-aaai-undergraduate-consortium\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/02/13/brown-cs-undergrads-dai-and-bermudez-silverman-will-present-aaai-undergraduate-consortium\n"
+        "url": "cs.brown.edu/news/2020/02/04/bayazit-galgana-kumar-and-safranchik-win-cra-outstanding-undergraduate-researcher-honorable-mentions\n"
     },
     {
         "age": "2020",
@@ -1522,17 +1532,7 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/02/04/bayazit-galgana-kumar-and-safranchik-win-cra-outstanding-undergraduate-researcher-honorable-mentions\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2020/02\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/02/21/brown-cs-alum-feng-hao-liu-wins-nsf-career-award\n"
+        "url": "cs.brown.edu/news/2020/02/18/new-research-may-help-bring-about-significant-blockchain-speedups\n"
     },
     {
         "age": "2020",
@@ -1542,7 +1542,7 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/02/18/new-research-may-help-bring-about-significant-blockchain-speedups\n"
+        "url": "cs.brown.edu/news/2020/04/06/casey-nelson-and-dylan-sam-win-randy-f-pausch-computer-science-undergraduate-summer-research-award\n"
     },
     {
         "age": "2020",
@@ -1550,29 +1550,9 @@
         "url": "cs.brown.edu/news/2020/02/25/areyan-takes-second-place-international-automated-negotiation-agents-competition\n"
     },
     {
-        "age": "2019",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2019/12/04/seny-kamara-provides-data-security-testimony-congress\n"
-    },
-    {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/04/06/casey-nelson-and-dylan-sam-win-randy-f-pausch-computer-science-undergraduate-summer-research-award\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2021",
         "url": "cs.brown.edu/news/2020/04\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci0050/2017/Lectures/nums-strings-images.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/04/07/amy-greenwald-moderates-aaai-panel-advancing-ai-playing-games\n"
     },
     {
         "age": "2020",
@@ -1582,12 +1562,17 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/04/13/nishanth-kumar-has-been-named-2020-barry-m-goldwater-scholar\n"
+        "url": "cs.brown.edu/news/2020/04/07/amy-greenwald-moderates-aaai-panel-advancing-ai-playing-games\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2022",
         "url": "cs.brown.edu/news/2020/04/16/anna-lysyanskaya-helps-preserve-privacy-during-contact-tracing\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/cs2951-l/ao15/redesign.html\n"
     },
     {
         "age": "2020",
@@ -1597,22 +1582,7 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/05/05/eleanor-avril-wins-norman-k-meyrowitz-81-award\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
         "url": "cs.brown.edu/news/2020/05/04/lorenzo-de-stefani-returns-brown-cs-lecturer\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0111/bridge-to18/index.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0111/fall2019/index.html\n"
     },
     {
         "age": "2020",
@@ -1627,32 +1597,7 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/05/18/phd-student-jing-qian-and-adobe-add-ar-annotations-physical-documents\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0111/spring2020/index.html\n"
-    },
-    {
-        "age": "2016",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0160/docs.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0111/fall2020/going-to-18.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0160/section.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/05/27/brown-cs-graduates-record-number-undergrads-39-are-women\n"
+        "url": "cs.brown.edu/news/2020/05/05/eleanor-avril-wins-norman-k-meyrowitz-81-award\n"
     },
     {
         "age": "2020",
@@ -1660,19 +1605,9 @@
         "url": "cs.brown.edu/news/2020/05/28/michael-littman-and-ellie-pavlick-receive-named-professorships\n"
     },
     {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci0160/static/files/docs/doc/decisiontree/support/decisiontree/package-summary.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0160/static/files/docs/doc/graph/overview-frame.html\n"
-    },
-    {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/06/05/brown-and-risd-undergrads-win-40k-challenge-massrobotics\n"
+        "url": "cs.brown.edu/news/2020/05/18/phd-student-jing-qian-and-adobe-add-ar-annotations-physical-documents\n"
     },
     {
         "age": "2020",
@@ -1682,17 +1617,27 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/07/06/brown-cs-students-faculty-and-alums-publish-seven-papers-sigmod-2020\n"
+        "url": "cs.brown.edu/news/2020/05/27/brown-cs-graduates-record-number-undergrads-39-are-women\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0160/static/files/docs/doc/graph/allclasses-frame.html\n"
+        "url": "cs.brown.edu/news/2020/06/05/brown-and-risd-undergrads-win-40k-challenge-massrobotics\n"
     },
     {
         "age": "2020",
-        "last_archived_version": "2021",
+        "last_archived_version": "2022",
         "url": "cs.brown.edu/news/2020/07\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci0030/collaborationPolicy.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2020/07/06/brown-cs-students-faculty-and-alums-publish-seven-papers-sigmod-2020\n"
     },
     {
         "age": "2020",
@@ -1702,7 +1647,7 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/07/10/brown-cs-phd-student-brandon-j-woodard-wins-nasa-ri-space-grant-fellowship\n"
+        "url": "cs.brown.edu/news/2020/02/21/brown-cs-alum-feng-hao-liu-wins-nsf-career-award\n"
     },
     {
         "age": "2020",
@@ -1710,9 +1655,29 @@
         "url": "cs.brown.edu/news/2020/07/08/brown-cs-alums-and-adjunct-faculty-win-longuet-higgins-prize-and-pami-young-researcher-award\n"
     },
     {
-        "age": "2015",
-        "last_archived_version": "2017",
-        "url": "cs.brown.edu/courses/csci0190/2015/AFQ.html\n"
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci0050/2017/Assignments/flags.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2020/07/10/brown-cs-phd-student-brandon-j-woodard-wins-nasa-ri-space-grant-fellowship\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2020/07/21/rodrigo-fonseca-wins-usenix-community-award-characterizing-and-optimizing-large-serverless-workload\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/news/2020/07/15/kathi-fisler-will-discuss-covid-k-12-learning-loss-futures-forum-learning\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2020/04/13/nishanth-kumar-has-been-named-2020-barry-m-goldwater-scholar\n"
     },
     {
         "age": "2020",
@@ -1725,24 +1690,9 @@
         "url": "cs.brown.edu/news/2020/07/22/vasileios-kemerlis-wins-dimva-outstanding-reviewer-award\n"
     },
     {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci0190/2018/contfraccontfrac.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0190/2019/assignments.html\n"
-    },
-    {
         "age": "2020",
         "last_archived_version": "2022",
         "url": "cs.brown.edu/news/2020/07/22/vasileios-kemerlis-wins-greek-diaspora-fellowship-internet-things-software-hardening\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0190/2019/2424.html\n"
     },
     {
         "age": "2020",
@@ -1765,24 +1715,14 @@
         "url": "cs.brown.edu/news/2020/09\n"
     },
     {
-        "age": "2019",
+        "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0190/2019/contfraccontfrac.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0190/2019/docdiffdocdiff.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0190/2019/datascrdatascr.html\n"
+        "url": "cs.brown.edu/news/2020/09/10/two-students-browns-cybersecurity-program-win-crowdstrike-foundations-nextgen-scholarship\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/09/10/two-students-browns-cybersecurity-program-win-crowdstrike-foundations-nextgen-scholarship\n"
+        "url": "cs.brown.edu/news/2020/09/11/watch-recording-brown-cs-town-hall-brown-login-required\n"
     },
     {
         "age": "2020",
@@ -1796,13 +1736,8 @@
     },
     {
         "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0190/2019/filesystemfilesystem.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0190/2019/fluid-imgfluid-img.html\n"
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci0050/2017/Lectures/nums-strings-images.html\n"
     },
     {
         "age": "2020",
@@ -1810,14 +1745,24 @@
         "url": "cs.brown.edu/news/2020/10/06/applications-are-open-10k-pausch-undergraduate-summer-research-award\n"
     },
     {
-        "age": "2019",
+        "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0190/2019/in-worldin-world.html\n"
+        "url": "cs.brown.edu/news/2020/10/19/brown-cs-seeks-applicants-multiple-faculty-positions\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/news/2020/10/21/brown-cs-alum-brian-christians-third-book-addresses-machine-learning-and-human-values\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2021",
         "url": "cs.brown.edu/news/2020/11/16/brown-cs-phd-students-help-underrepresented-candidates-apply-cs-phd-programs\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/news/2020/11/18/brown-cs-alums-charity-gives-k-12-teachers-second-monitor-help-during-covid\n"
     },
     {
         "age": "2020",
@@ -1827,12 +1772,7 @@
     {
         "age": "2020",
         "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2020/11/18/brown-cs-alums-charity-gives-k-12-teachers-second-monitor-help-during-covid\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0190/2019/index.html\n"
+        "url": "cs.brown.edu/news/2020/12/01/brown-cs-alum-mneera-abdullah-saud-2021-rhodes-scholar\n"
     },
     {
         "age": "2020",
@@ -1841,18 +1781,18 @@
     },
     {
         "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/07/21/rodrigo-fonseca-wins-usenix-community-award-characterizing-and-optimizing-large-serverless-workload\n"
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci0111/bridge-to18/index.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci0111/fall2019/index.html\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/12/10/einblick-spawned-brownmit-research-debuts-new-visual-data-computing-platform\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0190/2019/join-listsjoin-lists.html\n"
+        "url": "cs.brown.edu/news/2020/12/07/alum-entrepreneurs-genevieve-patterson-brings-ai-powered-video-editing-millions\n"
     },
     {
         "age": "2020",
@@ -1861,13 +1801,108 @@
     },
     {
         "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2020/07/15/kathi-fisler-will-discuss-covid-k-12-learning-loss-futures-forum-learning\n"
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci0111/fall2020/going-to-18.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci0111/spring2020/index.html\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/09/11/watch-recording-brown-cs-town-hall-brown-login-required\n"
+        "url": "cs.brown.edu/news/2020/12/10/einblick-spawned-brownmit-research-debuts-new-visual-data-computing-platform\n"
+    },
+    {
+        "age": "2016",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci0160/docs.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci0160/static/files/docs/doc/decisiontree/support/decisiontree/package-summary.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2020/12/17/sridhar-ramaswamy-gives-20th-annual-kanellakis-memorial-lecture\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci0160/section.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci0160/static/files/docs/doc/graph/overview-frame.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci0160/static/files/docs/doc/graph/allclasses-frame.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/people/2020graduates\n"
+    },
+    {
+        "age": "2015",
+        "last_archived_version": "2017",
+        "url": "cs.brown.edu/courses/csci0190/2015/AFQ.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci0190/2018/contfraccontfrac.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci0190/2019/2424.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci0190/2019/assignments.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci0190/2019/datascrdatascr.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci0190/2019/contfraccontfrac.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci0190/2019/index.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci0190/2019/docdiffdocdiff.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci0190/2019/in-worldin-world.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci0190/2019/filesystemfilesystem.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci0190/2019/fluid-imgfluid-img.html\n"
     },
     {
         "age": "2019",
@@ -1882,12 +1917,12 @@
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0190/2019/learning-goals.html\n"
+        "url": "cs.brown.edu/courses/csci0190/2019/join-listsjoin-lists.html\n"
     },
     {
-        "age": "2020",
+        "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/people/2020graduates\n"
+        "url": "cs.brown.edu/courses/csci0190/2019/learning-goals.html\n"
     },
     {
         "age": "2019",
@@ -1906,48 +1941,13 @@
     },
     {
         "age": "2019",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0190/2019/oracleoracle.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/10/19/brown-cs-seeks-applicants-multiple-faculty-positions\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci0190/2019/pl2placement-2.html\n"
-    },
-    {
-        "age": "2019",
         "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/csci0190/2019/pl1placement-1.html\n"
     },
     {
         "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci0190/2019/pl3placement-3.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2020/10/21/brown-cs-alum-brian-christians-third-book-addresses-machine-learning-and-human-values\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2020/12/01/brown-cs-alum-mneera-abdullah-saud-2021-rhodes-scholar\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/12/07/alum-entrepreneurs-genevieve-patterson-brings-ai-powered-video-editing-millions\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci0190/2019/placement-readings.html\n"
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci0190/2019/oracleoracle.html\n"
     },
     {
         "age": "2019",
@@ -1957,17 +1957,32 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci0190/2019/placement-self-test.html\n"
+        "url": "cs.brown.edu/courses/csci0190/2019/pl2placement-2.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci0190/2019/placement-AFQ.html\n"
+        "url": "cs.brown.edu/courses/csci0190/2019/pl3placement-3.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/csci0190/2019/placement.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci0190/2019/placement-readings.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci0190/2019/policy.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci0190/2019/placement-AFQ.html\n"
     },
     {
         "age": "2019",
@@ -1981,23 +1996,8 @@
     },
     {
         "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0190/2019/policy.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/12/17/sridhar-ramaswamy-gives-20th-annual-kanellakis-memorial-lecture\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0190/2019/staff.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0190/2019/Textbook.html\n"
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci0190/2019/placement-self-test.html\n"
     },
     {
         "age": "2019",
@@ -2007,7 +2007,17 @@
     {
         "age": "2019",
         "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci0190/2019/Textbook.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
         "url": "cs.brown.edu/courses/csci0190/2019/sortaclesortacle.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci0190/2019/staff.html\n"
     },
     {
         "age": "2019",
@@ -2017,7 +2027,22 @@
     {
         "age": "2019",
         "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci0190/2019/twee-3twee-3.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
         "url": "cs.brown.edu/courses/csci0190/2019/twee-2twee-2.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/courses/csci0190/2020/assignments.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci0190/2020/policy.html\n"
     },
     {
         "age": "2019",
@@ -2026,33 +2051,18 @@
     },
     {
         "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/courses/csci0190/2020/assignments.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci0190/2019/twee-3twee-3.html\n"
-    },
-    {
-        "age": "2020",
         "last_archived_version": "2020",
         "url": "cs.brown.edu/courses/csci0190/2020/credits.html\n"
     },
     {
         "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0190/2020/policy.html\n"
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/courses/csci0190/2020/professionalism.html\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2020",
         "url": "cs.brown.edu/courses/csci0190/2020/electronics-policy.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/courses/csci0190/2020/professionalism.html\n"
     },
     {
         "age": "2020",
@@ -2065,14 +2075,14 @@
         "url": "cs.brown.edu/courses/csci0330/Camtasia/2014/Lecture5/media/index_player.html?embedIFrameId=embeddedSmartPlayerInstance\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci0330/Camtasia/2015/lecture1/media/index_player.html?embedIFrameId=embeddedSmartPlayerInstance\n"
-    },
-    {
         "age": "2015",
         "last_archived_version": "2015",
         "url": "cs.brown.edu/courses/csci0931/2015-fall/resources/JAR_Instructions.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci0330/Camtasia/2015/lecture1/media/index_player.html?embedIFrameId=embeddedSmartPlayerInstance\n"
     },
     {
         "age": "2016",
@@ -2080,24 +2090,14 @@
         "url": "cs.brown.edu/courses/csci1010/index.html\n"
     },
     {
-        "age": "2022",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci1290/labs/lab_bilateral/writeup.tex\n"
-    },
-    {
-        "age": "2009",
-        "last_archived_version": "2016",
-        "url": "cs.brown.edu/courses/csci1230/index.html\n"
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci1300/layout.html\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2020",
         "url": "cs.brown.edu/courses/csci1310/2019/faq.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1300/layout.html\n"
     },
     {
         "age": "2020",
@@ -2122,17 +2122,12 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1310/2020/assign/labs/lab5.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1310/2020/assign/labs/lab8.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
         "url": "cs.brown.edu/courses/csci1310/2020/assign/labs/lab7.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci1310/2020/assign/labs/lab5.html\n"
     },
     {
         "age": "2020",
@@ -2142,12 +2137,12 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1310/2020/assign/projects/project3.html\n"
+        "url": "cs.brown.edu/courses/csci1310/2020/assign/labs/lab6.html\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1310/2020/assign/labs/lab6.html\n"
+        "url": "cs.brown.edu/courses/csci1310/2020/assign/labs/lab8.html\n"
     },
     {
         "age": "2020",
@@ -2157,7 +2152,7 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1310/2020/c-cpp-primer.html\n"
+        "url": "cs.brown.edu/courses/csci1310/2020/assign/projects/project3.html\n"
     },
     {
         "age": "2020",
@@ -2167,7 +2162,32 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci1310/2020/exercises/distributed.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
         "url": "cs.brown.edu/courses/csci1310/2020/assign/projects/project4.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci1310/2020/exams/final.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci1310/2020/c-cpp-primer.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci1310/2020/exercises/os.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci1310/2020/faq.html\n"
     },
     {
         "age": "2020",
@@ -2182,32 +2202,22 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1310/2020/exams/final.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1310/2020/faq.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1310/2020/exercises/distributed.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1310/2020/exercises/os.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
         "url": "cs.brown.edu/courses/csci1310/2020/hours.html\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci1310/2020/index.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
         "url": "cs.brown.edu/courses/csci1310/2020/notes/l07.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci1310/2020/outline.html\n"
     },
     {
         "age": "2020",
@@ -2217,7 +2227,7 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1310/2020/index.html\n"
+        "url": "cs.brown.edu/courses/csci1310/2020/remote.html\n"
     },
     {
         "age": "2020",
@@ -2227,12 +2237,7 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1310/2020/outline.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1310/2020/remote.html\n"
+        "url": "cs.brown.edu/courses/csci1310/2020/textbooks.html\n"
     },
     {
         "age": "2020",
@@ -2245,11 +2250,6 @@
         "url": "cs.brown.edu/courses/csci1310/2020/whytake.html\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1310/2020/textbooks.html\n"
-    },
-    {
         "age": "2019",
         "last_archived_version": "2022",
         "url": "cs.brown.edu/courses/csci1320/assignments/assignment3/assignment3.html\n"
@@ -2257,17 +2257,12 @@
     {
         "age": "2018",
         "last_archived_version": "2021",
-        "url": "cs.brown.edu/courses/csci1320/labs/lab4/prelab4.html\n"
+        "url": "cs.brown.edu/courses/csci1320/labs/lab3/prelab3.html\n"
     },
     {
         "age": "2018",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci1320/labs/lab6/lab6.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1380/s19/announcements.html\n"
+        "url": "cs.brown.edu/courses/csci1320/labs/lab7/lab7.html\n"
     },
     {
         "age": "2019",
@@ -2277,7 +2272,22 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci1380/s19/announcements.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci1380/s19/board.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/csci1380/s19/exams.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci1380/s19/feedback.html\n"
     },
     {
         "age": "2019",
@@ -2290,19 +2300,9 @@
         "url": "cs.brown.edu/courses/csci1380/s19/calendar.html\n"
     },
     {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1380/s19/feedback.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1380/s19/board.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1460/bert.html\n"
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci1460/comet.html\n"
     },
     {
         "age": "2015",
@@ -2310,24 +2310,14 @@
         "url": "cs.brown.edu/courses/csci1460/home.html\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1460/comet.html\n"
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci1460/bert.html\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2020",
         "url": "cs.brown.edu/courses/csci1460/virtualenv.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1460/parse-reranker.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1460/transformer.html\n"
     },
     {
         "age": "2019",
@@ -2340,14 +2330,24 @@
         "url": "cs.brown.edu/courses/csci1460/zeroshot.html\n"
     },
     {
-        "age": "2019",
+        "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1470/dlday.html\n"
+        "url": "cs.brown.edu/courses/csci1460/parse-reranker.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci1460/transformer.html\n"
     },
     {
         "age": "2017",
         "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/csci1470/calendar.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci1470/dlday.html\n"
     },
     {
         "age": "2018",
@@ -2363,6 +2363,11 @@
         "age": "2007",
         "last_archived_version": "2008",
         "url": "cs.brown.edu/courses/csci1590/home.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci1650/ctf-4.html\n"
     },
     {
         "age": "2014",
@@ -2382,12 +2387,12 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1730/2020/tinf.html\n"
+        "url": "cs.brown.edu/courses/csci1730/2020/interpreter.html\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1730/2020/interpreter.html\n"
+        "url": "cs.brown.edu/courses/csci1730/2020/tinf.html\n"
     },
     {
         "age": "2016",
@@ -2417,6 +2422,11 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci2950-u/s17/syllabus.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
         "url": "cs.brown.edu/courses/csci2950-u/s18/schedule.html\n"
     },
     {
@@ -2425,29 +2435,9 @@
         "url": "cs.brown.edu/courses/csci2950-u/s17/schedule.html\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci2950-u/s17/syllabus.html\n"
-    },
-    {
         "age": "2019",
         "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/csci2950-u/s18/resources.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci2950-u/s18/syllabus.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci2951-k/spring-2018/final.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci2951-k/spring-2018/miniproposal1.html\n"
     },
     {
         "age": "2019",
@@ -2457,12 +2447,27 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci2951-k/spring-2018/miniproposal2.html\n"
+        "url": "cs.brown.edu/courses/csci2951-k/spring-2018/final.html\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci2950-u/s18/syllabus.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/csci2951-k/spring-2018/schedule.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci2951-k/spring-2018/miniproposal2.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci2951-k/spring-2018/miniproposal1.html\n"
     },
     {
         "age": "2019",
@@ -2477,17 +2482,17 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci2951-l/christanner/redesign.html\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
         "url": "cs.brown.edu/courses/csci2951-l/jshanggu/redesign.html\n"
     },
     {
         "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci2951-o/p3leaderboard.html\n"
+    },
+    {
+        "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci2951-o/p1leaderboard.html\n"
+        "url": "cs.brown.edu/courses/csci2951-l/christanner/redesign.html\n"
     },
     {
         "age": "2019",
@@ -2496,13 +2501,8 @@
     },
     {
         "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci2951-o/p4leaderboard.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci2951-o/p3leaderboard.html\n"
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci2951-o/p1leaderboard.html\n"
     },
     {
         "age": "2019",
@@ -2513,6 +2513,11 @@
         "age": "2019",
         "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/csci2951-o/p2leaderboard.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci2951-o/p4leaderboard.html\n"
     },
     {
         "age": "2019",
@@ -2532,17 +2537,17 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci2952d/assignment3.html\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/csci2952d/assignment2.html\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/csci2952d/assignment4.html\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci2952d/assignment3.html\n"
     },
     {
         "age": "2019",
@@ -2562,17 +2567,17 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/?page=64\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
         "url": "cs.brown.edu/news/?page=63\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/?page=65\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/?page=64\n"
+        "url": "cs.brown.edu/news/?page=59\n"
     },
     {
         "age": "2018",
@@ -2587,7 +2592,7 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/?page=59\n"
+        "url": "cs.brown.edu/news/?page=65\n"
     },
     {
         "age": "2019",
@@ -2597,12 +2602,12 @@
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/about/directions/boston\n"
+        "url": "cs.brown.edu/about/directions/cab\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/about/directions/cab\n"
+        "url": "cs.brown.edu/about/directions/boston\n"
     },
     {
         "age": "2019",
@@ -2627,7 +2632,7 @@
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/about/rooms/sunlab/about/gould\n"
+        "url": "cs.brown.edu/about/rooms/sunlab/about/sunlab\n"
     },
     {
         "age": "2019",
@@ -2637,17 +2642,17 @@
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/about/rooms/sunlab/about/gsj\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/about/rooms/sunlab/about/sunlab\n"
+        "url": "cs.brown.edu/about/rooms/sunlab/about/gould\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2022",
         "url": "cs.brown.edu/about/rooms/sunlab/about/sketch\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/about/rooms/sunlab/about/gsj\n"
     },
     {
         "age": "2020",
@@ -2665,14 +2670,14 @@
         "url": "cs.brown.edu/courses/csci1300/fall2016\n"
     },
     {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci1300/fall2017\n"
-    },
-    {
         "age": "2020",
         "last_archived_version": "2020",
         "url": "cs.brown.edu/courses/csci2300/spring2018\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/csci1300/fall2017\n"
     },
     {
         "age": "2019",
@@ -2706,13 +2711,18 @@
     },
     {
         "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/news/2007/01/03\n"
+    },
+    {
+        "age": "2020",
         "last_archived_version": "2022",
         "url": "cs.brown.edu/news/2007/01/24/Stan\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/news/2007/01/03\n"
+        "url": "cs.brown.edu/cgc/java3.datastructures.net\n"
     },
     {
         "age": "2019",
@@ -2722,22 +2732,7 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs129/2011/results/final/ebnelson\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs129/2012/asgn/proj1\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs129/2012/asgn/proj2\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs100/students/project28\n"
     },
     {
         "age": "2019",
@@ -2747,7 +2742,17 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs129/2012/asgn/proj4\n"
+        "url": "cs.brown.edu/courses/cs129/2012/asgn/proj2\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs129/2012/asgn/proj5\n"
+    },
+    {
+        "age": "2018",
+        "last_archived_version": "2018",
+        "url": "cs.brown.edu/courses/cs129/2012\n"
     },
     {
         "age": "2019",
@@ -2757,17 +2762,17 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs129/2012/asgn/proj6\n"
+        "url": "cs.brown.edu/courses/cs129/2011/results/final/ebnelson\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs129/2012/asgn/proj5\n"
+        "url": "cs.brown.edu/courses/cs129/2012/asgn/proj4\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs129/2012/results/final/istrickm\n"
+        "url": "cs.brown.edu/courses/cs129/labs/lab_stereolab\n"
     },
     {
         "age": "2019",
@@ -2777,7 +2782,17 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs129/labs/lab_stereolab\n"
+        "url": "cs.brown.edu/courses/cs129/2012/asgn/proj6\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs100/students/project28\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs129/2012/results/final/istrickm\n"
     },
     {
         "age": "2019",
@@ -2792,17 +2807,17 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs137/2017\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs137/2017/gallery\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs137/2015/gallery\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs137/2017\n"
     },
     {
         "age": "2019",
@@ -2817,37 +2832,7 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/aimee\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs143/2011/results/proj4/ahills\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/aloomis\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/aychen\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/betsy\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/bcheung\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/andrew\n"
     },
     {
         "age": "2019",
@@ -2857,7 +2842,17 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/brian\n"
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/aimee\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/andrew\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/aloomis\n"
     },
     {
         "age": "2019",
@@ -2867,47 +2862,17 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/aychen\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs143/2011/results/proj4/bfreudbe\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/chaszhazha\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/ccyeh\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/btparker\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/brycer\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/djf\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/eboswort\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/edwallac\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/diemtran\n"
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/bcheung\n"
     },
     {
         "age": "2019",
@@ -2917,12 +2882,67 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/betsy\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/brycer\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/brian\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/btparker\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/ccyeh\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/chaszhazha\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/diemtran\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/djf\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/edwallac\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/eboswort\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs143/2011/results/proj4/gen\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/jardini\n"
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/georgem\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/gkliger\n"
     },
     {
         "age": "2019",
@@ -2937,27 +2957,17 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/jihoonl\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/jameswang\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs143/2011/results/proj4/hnarayan\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/gkliger\n"
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/jardini\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/jthickst\n"
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/jihoonl\n"
     },
     {
         "age": "2019",
@@ -2967,7 +2977,7 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/georgem\n"
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/jameswang\n"
     },
     {
         "age": "2019",
@@ -2982,37 +2992,12 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/jthickst\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs143/2011/results/proj4/lbsun\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/li\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/mprice\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/mk20\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/ngillani\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/nragosta\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/oberlin\n"
     },
     {
         "age": "2019",
@@ -3022,12 +3007,7 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/oulusel\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/rdfong\n"
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/li\n"
     },
     {
         "age": "2019",
@@ -3037,17 +3017,57 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/mk20\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/nragosta\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/mprice\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/oulusel\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs143/2011/results/proj4/rmcverry\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/schangpi\n"
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/ngillani\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/oberlin\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/rdfong\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs143/2011/results/proj4/sbirch\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/sethg\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/schangpi\n"
     },
     {
         "age": "2019",
@@ -3062,22 +3082,7 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/sethg\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/cs143/2011/results/proj4/sswarr\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/sl136\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/vmoussav\n"
     },
     {
         "age": "2019",
@@ -3092,7 +3097,12 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/yunzhang\n"
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/weallen\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/vmoussav\n"
     },
     {
         "age": "2019",
@@ -3102,12 +3112,17 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/zkahn\n"
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/yunzhang\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/weallen\n"
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/sl136\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs143/2011/results/proj4/zkahn\n"
     },
     {
         "age": "2019",
@@ -3126,13 +3141,13 @@
     },
     {
         "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs168/f19\n"
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/cs143/proj6\n"
     },
     {
-        "age": "2022",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/cs129/2012/results/final/yanli\n"
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs168/f19\n"
     },
     {
         "age": "2019",
@@ -3140,9 +3155,9 @@
         "url": "cs.brown.edu/courses/cs173/2012/OnLine/Certification/687898716\n"
     },
     {
-        "age": "2011",
-        "last_archived_version": "2012",
-        "url": "cs.brown.edu/courses/cs227/feed.rss\n"
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/cs1951l\n"
     },
     {
         "age": "2019",
@@ -3167,17 +3182,12 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/cs273\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
         "url": "cs.brown.edu/courses/cs273/2016\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs2951f/2013\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/cs2951f/2017\n"
     },
     {
         "age": "2019",
@@ -3187,7 +3197,7 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci0050\n"
+        "url": "cs.brown.edu/courses/cs2951f/2013\n"
     },
     {
         "age": "2019",
@@ -3196,8 +3206,18 @@
     },
     {
         "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/cs2951f/2017\n"
+    },
+    {
+        "age": "2019",
         "last_archived_version": "2022",
         "url": "cs.brown.edu/courses/csci0111\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci0050\n"
     },
     {
         "age": "2020",
@@ -3210,14 +3230,14 @@
         "url": "cs.brown.edu/courses/csci0112/spring-2020\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/courses/csci0190/2020\n"
-    },
-    {
         "age": "2019",
         "last_archived_version": "2021",
         "url": "cs.brown.edu/courses/csci0190/2019\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/courses/csci0190/2020\n"
     },
     {
         "age": "2020",
@@ -3227,22 +3247,7 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci0330/shell1\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1290/results/final/valayshah\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/csci1310/2019\n"
-    },
-    {
-        "age": "2022",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/csci1320/labs/lab2\n"
     },
     {
         "age": "2020",
@@ -3250,9 +3255,59 @@
         "url": "cs.brown.edu/courses/csci1310/2020\n"
     },
     {
+        "age": "2015",
+        "last_archived_version": "2015",
+        "url": "cs.brown.edu/courses/csci1430/2011/results/final\n"
+    },
+    {
         "age": "2019",
         "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/csci1380/s19\n"
+    },
+    {
+        "age": "2015",
+        "last_archived_version": "2015",
+        "url": "cs.brown.edu/courses/csci1430/2011/proj1\n"
+    },
+    {
+        "age": "2015",
+        "last_archived_version": "2015",
+        "url": "cs.brown.edu/courses/csci1430/2011/results/final/sethg\n"
+    },
+    {
+        "age": "2015",
+        "last_archived_version": "2015",
+        "url": "cs.brown.edu/courses/csci1430/2011/results/proj1\n"
+    },
+    {
+        "age": "2015",
+        "last_archived_version": "2015",
+        "url": "cs.brown.edu/courses/csci1430/2011/results/final/ez\n"
+    },
+    {
+        "age": "2015",
+        "last_archived_version": "2015",
+        "url": "cs.brown.edu/courses/csci1430/2011/results/proj1/aloomis\n"
+    },
+    {
+        "age": "2015",
+        "last_archived_version": "2015",
+        "url": "cs.brown.edu/courses/csci1430/2011/results/proj2\n"
+    },
+    {
+        "age": "2015",
+        "last_archived_version": "2015",
+        "url": "cs.brown.edu/courses/csci1430/2011/results/proj1/djf\n"
+    },
+    {
+        "age": "2015",
+        "last_archived_version": "2015",
+        "url": "cs.brown.edu/courses/csci1430/2011/results/proj2/hangsu\n"
+    },
+    {
+        "age": "2015",
+        "last_archived_version": "2015",
+        "url": "cs.brown.edu/courses/csci1430/2011/results/proj1/ez\n"
     },
     {
         "age": "2019",
@@ -3260,19 +3315,34 @@
         "url": "cs.brown.edu/courses/csci1410/old/2013\n"
     },
     {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci0111\n"
+        "age": "2015",
+        "last_archived_version": "2015",
+        "url": "cs.brown.edu/courses/csci1430/2011/results/proj2/li\n"
     },
     {
-        "age": "2019",
+        "age": "2015",
+        "last_archived_version": "2015",
+        "url": "cs.brown.edu/courses/csci1430/2011/results/proj5\n"
+    },
+    {
+        "age": "2015",
+        "last_archived_version": "2015",
+        "url": "cs.brown.edu/courses/csci1430/2011/results/proj3/psastras\n"
+    },
+    {
+        "age": "2015",
+        "last_archived_version": "2015",
+        "url": "cs.brown.edu/courses/csci1430/2011/results/proj3/chenx\n"
+    },
+    {
+        "age": "2015",
+        "last_archived_version": "2015",
+        "url": "cs.brown.edu/courses/csci1430/2011/results/proj3/yunzhang\n"
+    },
+    {
+        "age": "2013",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1430/proj6\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci0300\n"
+        "url": "cs.brown.edu/courses/csci1430/proj2\n"
     },
     {
         "age": "2020",
@@ -3281,18 +3351,23 @@
     },
     {
         "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/courses/csci1660/demos/one-time-pad-key-reuse\n"
-    },
-    {
-        "age": "2020",
         "last_archived_version": "2022",
         "url": "cs.brown.edu/courses/csci1660/demos/password-cracking\n"
     },
     {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1680/f19\n"
+        "age": "2014",
+        "last_archived_version": "2014",
+        "url": "cs.brown.edu/courses/csci1680/f13\n"
+    },
+    {
+        "age": "2016",
+        "last_archived_version": "2016",
+        "url": "cs.brown.edu/courses/csci1680/f15\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/courses/csci1660/demos/one-time-pad-key-reuse\n"
     },
     {
         "age": "2019",
@@ -3300,24 +3375,9 @@
         "url": "cs.brown.edu/courses/csci1730/2019\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/courses/info/csci1330\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci1440\n"
-    },
-    {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/bkorel\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/btcohen\n"
+        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/aecollin\n"
     },
     {
         "age": "2019",
@@ -3332,7 +3392,7 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/aecollin\n"
+        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/bkorel\n"
     },
     {
         "age": "2019",
@@ -3342,12 +3402,12 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/ddufresn\n"
+        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/btcohen\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/lfong\n"
+        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/ddufresn\n"
     },
     {
         "age": "2019",
@@ -3367,12 +3427,12 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/pachecoj\n"
+        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/rudy\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/sghosh\n"
+        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/pachecoj\n"
     },
     {
         "age": "2019",
@@ -3382,17 +3442,7 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/thale\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/rudy\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/tstclair\n"
+        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/lfong\n"
     },
     {
         "age": "2019",
@@ -3402,22 +3452,32 @@
     {
         "age": "2019",
         "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/thale\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/tstclair\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/csci1950-g/results/proj1/trevor\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci1710\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci1951-w\n"
+        "age": "2019",
+        "last_archived_version": "2019",
+        "url": "cs.brown.edu/courses/csci1950-g/results/proj1/sghosh\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci1870\n"
+        "url": "cs.brown.edu/courses/info/csci0111\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci0300\n"
     },
     {
         "age": "2020",
@@ -3425,14 +3485,24 @@
         "url": "cs.brown.edu/courses/csci1951u\n"
     },
     {
-        "age": "2019",
+        "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci2390\n"
+        "url": "cs.brown.edu/courses/csci1951-w\n"
+    },
+    {
+        "age": "2014",
+        "last_archived_version": "2014",
+        "url": "cs.brown.edu/courses/csci1950i\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2019",
         "url": "cs.brown.edu/courses/csci2340/2018\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci2390\n"
     },
     {
         "age": "2020",
@@ -3461,23 +3531,18 @@
     },
     {
         "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci1951-o\n"
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/courses/info/csci1330\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci1951-w\n"
+        "url": "cs.brown.edu/courses/info/csci1440\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2020",
         "url": "cs.brown.edu/courses/csci2951w\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/courses/csci2952c\n"
     },
     {
         "age": "2020",
@@ -3492,11 +3557,6 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/courses/csci2952j\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
         "url": "cs.brown.edu/courses/csci2952k\n"
     },
     {
@@ -3505,14 +3565,39 @@
         "url": "cs.brown.edu/courses/csci2952v\n"
     },
     {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci1710\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/courses/csci2952j\n"
+    },
+    {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci2952-g\n"
+        "url": "cs.brown.edu/courses/info/csci1870\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci1951-o\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci1951-w\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2022",
         "url": "cs.brown.edu/courses/info/csci2952-f\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci2952-g\n"
     },
     {
         "age": "2020",
@@ -3522,22 +3607,22 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/courses/info/csci2952-v\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
         "url": "cs.brown.edu/courses/info/csci2952-k\n"
     },
     {
         "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/covid/covid-student-resources\n"
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/courses/info/csci2952-v\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2021",
         "url": "cs.brown.edu/covid/av-options\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/covid/covid-student-resources\n"
     },
     {
         "age": "2020",
@@ -3570,6 +3655,11 @@
         "url": "cs.brown.edu/degrees/undergrad/research/graduate-school-resources\n"
     },
     {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/degrees/undergrad/research/publications-undergraduates\n"
+    },
+    {
         "age": "2020",
         "last_archived_version": "2022",
         "url": "cs.brown.edu/degrees/undergrad/resources\n"
@@ -3582,12 +3672,12 @@
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/events/kanellakis\n"
+        "url": "cs.brown.edu/events/halfcenturyofhypertext\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/events/halfcenturyofhypertext\n"
+        "url": "cs.brown.edu/events/kanellakis\n"
     },
     {
         "age": "2011",
@@ -3612,12 +3702,12 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2002/04/03/wedding\n"
+        "url": "cs.brown.edu/news/2002/06/07/Chair\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2002/06/07/Chair\n"
+        "url": "cs.brown.edu/news/2002/04/03/wedding\n"
     },
     {
         "age": "2019",
@@ -3640,9 +3730,9 @@
         "url": "cs.brown.edu/news/2012/08/16\n"
     },
     {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2016/10/21/brown-universitys-executive-master-cybersecurity-program-welcomes-its-first-student-cohort\n"
+        "age": "2020",
+        "last_archived_version": "2021",
+        "url": "cs.brown.edu/news/2013/06/18\n"
     },
     {
         "age": "2019",
@@ -3650,9 +3740,9 @@
         "url": "cs.brown.edu/news/2016/10\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2021",
-        "url": "cs.brown.edu/news/2013/06/18\n"
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2016/10/21/brown-universitys-executive-master-cybersecurity-program-welcomes-its-first-student-cohort\n"
     },
     {
         "age": "2019",
@@ -3675,9 +3765,9 @@
         "url": "cs.brown.edu/news/2018/01/05/vasileios-kemerlis-wins-dollar-amount-grant-os-kernel-protection\n"
     },
     {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/01/31/danah-boyd-has-been-named-among-forbes-top-50-women-tech\n"
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/news/2018/09\n"
     },
     {
         "age": "2020",
@@ -3687,27 +3777,17 @@
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/01/18/nakul-gopalan-eric-rosen-daniel-ullman-david-whitney-win-hyundai-visionary-challenge\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/news/2018/09\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/02/06/announcing-brown-cs-digital-archive\n"
-    },
-    {
-        "age": "2019",
-        "last_archived_version": "2022",
         "url": "cs.brown.edu/news/2019/02/04/fong-ren-and-weir-win-cra-outstanding-undergraduate-researcher-honorable-mentions\n"
     },
     {
-        "age": "2020",
-        "last_archived_version": "2020",
-        "url": "cs.brown.edu/news/2019/02\n"
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2019/01/31/danah-boyd-has-been-named-among-forbes-top-50-women-tech\n"
+    },
+    {
+        "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2019/01/18/nakul-gopalan-eric-rosen-daniel-ullman-david-whitney-win-hyundai-visionary-challenge\n"
     },
     {
         "age": "2019",
@@ -3716,8 +3796,18 @@
     },
     {
         "age": "2019",
+        "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2019/02/06/announcing-brown-cs-digital-archive\n"
+    },
+    {
+        "age": "2019",
         "last_archived_version": "2021",
         "url": "cs.brown.edu/news/2019/02/19/computer-science-societal-good\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2020",
+        "url": "cs.brown.edu/news/2019/02\n"
     },
     {
         "age": "2019",
@@ -3742,12 +3832,12 @@
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/12/09/krishnamurthi-guha-and-collaborators-win-oopsla-most-influential-paper-award-flapjax\n"
+        "url": "cs.brown.edu/news/2019/12/10/brown-emcs-alum-ernesto-zaldivar-finalist-bracken-bower-prize\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2019/12/10/brown-emcs-alum-ernesto-zaldivar-finalist-bracken-bower-prize\n"
+        "url": "cs.brown.edu/news/2019/12/09/krishnamurthi-guha-and-collaborators-win-oopsla-most-influential-paper-award-flapjax\n"
     },
     {
         "age": "2020",
@@ -3758,11 +3848,6 @@
         "age": "2020",
         "last_archived_version": "2022",
         "url": "cs.brown.edu/news/2020/02/07/kai-wang-wins-adobe-research-fellowship\n"
-    },
-    {
-        "age": "2020",
-        "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/02/11/new-research-daniel-ritchie-aims-easy-data-driven-convincing-indoor-scenes\n"
     },
     {
         "age": "2020",
@@ -3787,6 +3872,11 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
+        "url": "cs.brown.edu/news/2020/04/29/malte-schwarzkopf-wins-salomon-award-gdpr-compliant-system-design\n"
+    },
+    {
+        "age": "2020",
+        "last_archived_version": "2022",
         "url": "cs.brown.edu/news/2020/04/24/phd-student-lucy-qin-receives-nsf-graduate-research-fellowship\n"
     },
     {
@@ -3797,7 +3887,7 @@
     {
         "age": "2020",
         "last_archived_version": "2022",
-        "url": "cs.brown.edu/news/2020/04/29/malte-schwarzkopf-wins-salomon-award-gdpr-compliant-system-design\n"
+        "url": "cs.brown.edu/news/2020/02/11/new-research-daniel-ritchie-aims-easy-data-driven-convincing-indoor-scenes\n"
     },
     {
         "age": "2020",
@@ -3817,12 +3907,12 @@
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/people/aforsber\n"
+        "url": "cs.brown.edu/people/abromfi1\n"
     },
     {
         "age": "2020",
         "last_archived_version": "2020",
-        "url": "cs.brown.edu/people/abromfi1\n"
+        "url": "cs.brown.edu/people/aforsber\n"
     },
     {
         "age": "2006",
@@ -3835,9 +3925,9 @@
         "url": "cs.brown.edu/people/agayer\n"
     },
     {
-        "age": "2019",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/degrees/undergrad/concentration-requirements/declaring-the-concentration\n"
+        "age": "2018",
+        "last_archived_version": "2018",
+        "url": "cs.brown.edu/people/apapouts\n"
     },
     {
         "age": "2019",
@@ -3845,18 +3935,13 @@
         "url": "cs.brown.edu/degrees/undergrad/concentration-requirements/new-ab-requirements\n"
     },
     {
-        "age": "2013",
+        "age": "2019",
         "last_archived_version": "2019",
-        "url": "cs.brown.edu/courses/csci1310\n"
+        "url": "cs.brown.edu/degrees/undergrad/concentration-requirements/declaring-the-concentration\n"
     },
     {
         "age": "2019",
         "last_archived_version": "2020",
         "url": "cs.brown.edu/degrees/undergrad/concentration-handbook\n"
-    },
-    {
-        "age": "2018",
-        "last_archived_version": "2019",
-        "url": "cs.brown.edu/degrees/undergrad/new-concentration-requirements/declaring-the-concentration"
     }
 ]
